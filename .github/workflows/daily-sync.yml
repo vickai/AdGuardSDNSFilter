@@ -36,7 +36,7 @@ jobs:
           curl -L -o rules/adblockplus.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.txt
 
           # 下载 Hagezi 防博彩/诈骗纯净版 (保存为 adblockgambling.txt)
-          curl -L -o rules/adblockgambling.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/extensions/gambling.txt
+          curl -L -o rules/adblockgambling.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/gambling.txt
 
           # 下载其他的...自己按格式加
 
